@@ -1,7 +1,7 @@
 const htmlFunctions = require('../printModule');
 const requestOptions = {
   host: 'sytantris.github.io',
-  path: '/http-examples/step6.html'
+  path: '/http-examples/step6/lowercase.html'
 };
 
 function print_lowercase(html) {
